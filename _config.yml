@@ -1,7 +1,7 @@
 name: White Stone Industries
 favicon: null
-layout_spectrum: 0.32967409840784967
-typography_spectrum: 0.010165754240006208
+layout_spectrum: 0.51043
+typography_spectrum: 0.63882
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#212121'
+    - '#ffffff'
+    - '#858585'
+    - '#dcdcdc'
+    - '#adadad'
   brandStrength: 0.3179408360738307
   lightness: 0.31908957939594984
   saturation: 0.03745747054927051
-  rhythmicContrast: 0.22237415402196348
+  rhythmicContrast: 0
 purpose: []
