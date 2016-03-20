@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[White Stone Industries]]></title>
         <description><![CDATA[White Stone Industries]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/white-stone-industries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 03:34:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 03:46:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/white-stone-industries/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ac8591b-2fd4-406a-9d30-a1e982217995.png">]]></description>
-            <link>undefinedc9bafac7-5d5f-40e6-9575-e2c781716b36/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ac8591b-2fd4-406a-9d30-a1e982217995.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/white-stone-industries/c9bafac7-5d5f-40e6-9575-e2c781716b36/index.html</link>
             <guid isPermaLink="false">c9bafac7-5d5f-40e6-9575-e2c781716b36</guid>
-            <pubDate>Sun, 20 Mar 2016 03:34:36 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 03:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
